@@ -56,7 +56,7 @@ A beautiful, feature-rich offline music player built with Flutter, featuring Mat
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/offline_music_player.git
+git clone https://github.com/akmalmint/offline-music-player-src.git
 cd offline_music_player
 ```
 
